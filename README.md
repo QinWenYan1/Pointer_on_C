@@ -31,11 +31,19 @@
 
 ```bash
 .
-├── chapter01/        # 第1章：C语言概述与风格
-├── chapter02/        # 第2章：基本数据与操作
+├── chapter01/
+│   ├── note.md              # 第1章阅读笔记与总结
+│   └── exercise/
+│       ├── answers.md       # 文字题目解答与分析
+│       ├── ex1_1.c          # 编程题实现
+│       ├── ex1_2.c
+│       └── ...
+├── chapter02/
+│   ├── note.md
+│   └── exercise/
+│       ├── answers.md
+│       ├── ex2_1.c
+│       └── ...
 ├── ...
-├── chapterXX/        # 其余章节
-├── notes/            # 每章阅读总结与个人理解
-├── exercises/        # 习题代码与说明
-├── README.md         # 项目说明文件
-
+├── notes/                   # （可选）全书总结或额外补充
+├── README.md                # 项目说明文件
