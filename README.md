@@ -1,6 +1,6 @@
 # 📘 Pointers on C — 学习笔记与实践 (In Progress)
 
-欢迎来到我的 `Pointers on C` 学习仓库！这个项目用于记录我在阅读 Kenneth Reek 所著《C和指针》（Pointers on C）过程中的学习笔记、思考体会以及对应的习题解答。给自己将来复习，温故知新用!
+欢迎来到我的 `Pointers on C` 学习仓库！这个项目用于记录我在阅读 Kenneth Reek 所著《C和指针》（Pointers on C）过程中的学习笔记、思考体会以及对应的习题解答。给自己将来复习，温故知新用! (ps: 本人并没有将所有课后习题做完， 希望理解一下)
 
 ---
 
